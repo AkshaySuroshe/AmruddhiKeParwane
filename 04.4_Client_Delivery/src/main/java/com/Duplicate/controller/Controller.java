@@ -5,9 +5,9 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class Controller {
 
-	public void gitDemo()
+	public void m1()
 	{
-		System.out.println("Chetans controler");
+		System.out.println("Chetna's code!!");
 	}
 	
 }
