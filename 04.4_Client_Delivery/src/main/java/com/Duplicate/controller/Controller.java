@@ -5,11 +5,11 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class Controller {
 
-	
-	public void vijay()
+	public void m1()
 	{
-		System.out.println("Vijay's code!!");
+		System.out.println("Chetna's code!!");
 	}
+<<<<<<< HEAD
 	public void mrunal()
 	{
 		System.out.println("mrunal this side");
@@ -28,5 +28,7 @@ public class Controller {
 	
   
 
+=======
+>>>>>>> branch 'main' of https://github.com/AkshaySuroshe/AmruddhiKeParwane
 	
 }
